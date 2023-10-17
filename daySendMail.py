@@ -36,7 +36,7 @@ fridaydaylecturesid = [4, 1, 4, 6, 5]
 def sendMail(email_receiver, body):
 
     email_sender = "bharambepratik2002@gmail.com"
-    email_password = "yhexjdsegqiforwq"
+    email_password = ""
     now = datetime.datetime.now()
     if (now.hour == 9):
         subject = "Practical scheduled REMAINDER"
