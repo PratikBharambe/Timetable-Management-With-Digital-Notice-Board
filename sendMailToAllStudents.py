@@ -20,7 +20,7 @@ def sendMail(email_receiver, body):
 
     try:
         email_sender = "bharambepratik2002@gmail.com"
-        email_password = "yhexjdsegqiforwq"
+        email_password = ""
 
         subject = "Sending mail using python"
 
