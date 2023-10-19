@@ -17,7 +17,7 @@ mail_Address = np.array(email_of_student)
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
 smtp_username = 'bharambepratik2002@gmail.com'
-smtp_password = 'yhexjdsegqiforwq'
+smtp_password = ''
 
 # Set up the email message
 msg = MIMEMultipart()
