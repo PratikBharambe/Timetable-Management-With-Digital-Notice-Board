@@ -47,7 +47,7 @@ VandD = allVariablesAndDictionaries()
 # imap data for sending and getting data from gmail account .......................
 imap_server = 'imap.gmail.com'
 imap_username = 'bharambepratik2002@gmail.com'
-imap_password = 'yhexjdsegqiforwq'
+imap_password = ''
 
 
 # function to send a mail to the faculty .......................
