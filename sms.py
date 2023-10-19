@@ -66,7 +66,7 @@ class App:
     @staticmethod
     def sendMail(email_receiver, subject, body):
         email_sender = "bharambepratik2002@gmail.com"
-        email_password = "yhexjdsegqiforwq"
+        email_password = ""
 
         em = EmailMessage()
 
